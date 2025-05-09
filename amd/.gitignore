@@ -29,6 +29,6 @@ vendor
 *.json
 __debug_bin
 
-samples/**/metrics.csv
+# samples/**/metrics.csv
 
 test
