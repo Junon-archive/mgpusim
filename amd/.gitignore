@@ -8,7 +8,7 @@
 *.exe
 *.out
 debug
-*.csv
+# *.csv
 *.sqlite3-journal
 *.sqlite3
 *~
